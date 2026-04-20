@@ -1,0 +1,20 @@
+body {
+  text-align: centre;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  max-width: 100%;
+  background-color: rgb(174, 130, 217);
+  padding: 10%;
+  display: block;
+}
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blanchedalmond;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
